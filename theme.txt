@@ -18,7 +18,7 @@ terminal-border: "0"
   height = 60%
   item_font = "Unifont Regular 18"
   item_color = "#fff"
-  text-stroke: 1px black
+  text-stroke = 1px black
   selected_item_color = "#960018"
   item_height = 40
   item_spacing = 4

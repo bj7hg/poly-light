@@ -18,7 +18,8 @@ terminal-border: "0"
   height = 60%
   item_font = "Unifont Regular 18"
   item_color = "#fff"
-  text-stroke = 1px black
+  text-stroke-width = 1px
+  text-stroke-color = "#000"
   selected_item_color = "#960018"
   item_height = 40
   item_spacing = 4
@@ -88,6 +89,7 @@ terminal-border: "0"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
   color = "#fff"
-  text-stroke = 1px black
+  text-stroke-width = 1px
+  text-stroke-color = "#000"
   font = "Unifont Regular 18"
 }

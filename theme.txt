@@ -88,6 +88,6 @@ terminal-border: "0"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
   color = "#fff"
-  text-stroke: 1px black
+  text-stroke = 1px black
   font = "Unifont Regular 18"
 }
